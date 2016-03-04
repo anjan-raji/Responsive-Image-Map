@@ -934,10 +934,10 @@ h1 {
 
 .map li#west-virginia {
 	background-image: url(../images/west-virginia.png);
-	height: 15.1%;
-	left: 76.2%;
-	top: 33.3%;
-	width: 8.25%;
+	height: 14.4%;
+	left: 76.1%;
+	top: 33.9%;
+	width: 8.55%;
 }
 
 .map li#new-york {
@@ -1009,14 +1009,14 @@ h1 {
 	height: 7.2%;
 	left: 81.2%;
 	top: 34.8%;
-	width: 8.85%;
+	width: 8.65%;
 }
 
 .map li#kentucky {
 	background-image: url(../images/kentucky.png);
-	height: 12%;
+	height: 12.4%;
 	left: 63.7%;
-	top: 42.2%;
+	top: 42%;
 	width: 13.85%;
 }
 
